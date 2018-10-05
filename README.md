@@ -1,6 +1,9 @@
 # SmartTetris
 This is an implementation of the classic game Tetris with included bot.
 
+## Screenshot
+![Screenshot of the game](https://github.com/vesodev/SmartTetris/blob/master/smart_tetris_in_action.png)
+
 ## Requirements
 You need PyQt5 version 5.5 or higher.
 
